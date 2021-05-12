@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 超级兔子
+subtitle: '超级兔子的个人博客'
 description: ''
 keywords:
 author: LinShu
-language: 
+language: zh-CN
 timezone: ''
 
 # URL
@@ -67,7 +67,7 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
 tag_map:
 
 # Metadata elements
